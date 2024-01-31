@@ -13,10 +13,10 @@ If your friend doesn't like cookies, you give the cookie to the next person in l
 
 **One for you, one for me.**
 
-Usefull to remember -> Overloaded methods
+Usefull to remember &rarr; Overloaded methods
 
 ## Robot Name
 
 Create a *Robot* class that generates random names composed by 2 letters and 3 numbers
 
-Usefull to remember -> creation of classes and their functions
+Usefull to remember &rarr; creation of classes and their functions
